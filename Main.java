@@ -106,7 +106,7 @@ public class Main {
                     }
                     break;
                 case 0:
-                    System.out.println("Exiting the program.");
+                    System.out.println("Kết thúc chương trình.");
                     sc.close();
                     System.exit(0);
                 default:
